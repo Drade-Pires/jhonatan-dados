@@ -18,10 +18,10 @@ Repositório de estudos e práticas de análise de dados com Python. Este projet
 ## 📁 Estrutura do Projeto
 
 ├jhonatan-dados/
-├── dados/             # Arquivos CSV e bases utilizadas
-├── notebook/          # Notebooks Jupyter com análises
-├── requirements.txt   # Bibliotecas e versões usadas
-└── README.md          # Documentação do projeto
+-├── dados/             # Arquivos CSV e bases utilizadas
+-├── notebook/          # Notebooks Jupyter com análises
+-├── requirements.txt   # Bibliotecas e versões usadas
+-└── README.md          # Documentação do projeto
 
 
 ---
