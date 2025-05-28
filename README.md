@@ -35,7 +35,7 @@ cd jhonatan-dados
 
 python -m venv venv
 venv\Scripts\activate  # Windows
-# ou
+ou
 source venv/bin/activate  # Linux/macOS
 
 3. Instale as dependências:
