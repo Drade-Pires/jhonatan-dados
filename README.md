@@ -44,9 +44,9 @@ pip install -r requirements.txt
 4. Execute os notebooks:
 jupyter notebook
 
----...---
+---
 
-📌 Objetivos do Projeto
+## 📌 Objetivos do Projeto
 Praticar análise e visualização de dados.
 
 Trabalhar com séries temporais e gráficos interativos.
