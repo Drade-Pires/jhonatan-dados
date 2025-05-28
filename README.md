@@ -6,23 +6,22 @@ Repositório de estudos e práticas de análise de dados com Python. Este projet
 
 ## 🚀 Tecnologias Utilizadas
 
-- Python 3.12+
-- Pandas
-- NumPy
-- Seaborn / Matplotlib
-- Jupyter Notebook
-- VSCode / JupyterLab
+* Python 3.12+
+* Pandas
+* NumPy
+* Seaborn / Matplotlib
+* Jupyter Notebook
+* VSCode / JupyterLab
 
 ---
 
 ## 📁 Estrutura do Projeto
 
-├jhonatan-dados/
--├── dados/             # Arquivos CSV e bases utilizadas
--├── notebook/          # Notebooks Jupyter com análises
--├── requirements.txt   # Bibliotecas e versões usadas
--└── README.md          # Documentação do projeto
-
+jhonatan-dados/
+├── dados/ # Arquivos CSV e bases utilizadas
+├── notebook/ # Notebooks Jupyter com análises
+├── requirements.txt # Bibliotecas e versões usadas
+└── README.md # Documentação do projeto
 
 ---
 
